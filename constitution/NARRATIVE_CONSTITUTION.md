@@ -1,226 +1,169 @@
 # NARRATIVE CONSTITUTION
-Structural Guardrails for Historically-Informed Narrative Plausibility
 
-This document defines the **rules of plausibility** governing narrative production in any compatible world repository.  
-It does not describe events, truths, or facts.  
-It constrains how societies, polities, and cultures are allowed to behave over time.
+## Preamble
 
-The purpose of this constitution is to prevent shallow, frictionless, or monocausal narratives while preserving ambiguity, contradiction, and perspective.
+This constitution establishes the non-negotiable principles governing all narrative work produced using the historically informed plausibility framework.
 
----
+Its purpose is to define **hard boundaries**, not methods; **constraints**, not tools; and **prohibitions**, not guidance.  
+It exists to prevent implausible outcomes regardless of genre, setting, or authorial preference.
 
-## I. Scope and Non-Scope
-
-### In Scope
-- Diegetic narratives (chronicles, laws, myths, histories, poems)
-- Quasi-diegetic analyses written from in-universe standpoints
-- Narrative answers to “why,” “how,” and “what would make sense”
-
-### Out of Scope
-- Assertion extraction
-- Canon resolution
-- Ontological truth
-- Mechanical simulation
-
-This constitution governs **narrative plausibility**, not epistemic certainty.
+This document is authoritative across all frameworks, templates, examples, and implementations that claim conformance with this repository.
 
 ---
 
-## II. Foundational Principles
+## I. Foundational Commitments
 
-### 1. Overdetermination
-No major outcome arises from a single cause.
+### I.1 Plausibility as Structural Constraint
 
-Political change, military defeat, reform, collapse, or religious transformation must reflect **multiple converging pressures**, even if narrators perceive only one.
+Narrative outcomes must be constrained by structural conditions inherent to the systems depicted.  
+Plausibility is treated as a limiting factor on what may occur, not as an aesthetic preference.
 
-Narratives may simplify.  
-The world must not.
+### I.2 Rejection of Authorial Fiat
 
----
+No outcome may be justified solely by authorial intent, narrative necessity, or thematic desirability.  
+All significant developments must be explainable without recourse to omniscient or unbounded intervention.
 
-### 2. Friction
-Intent does not guarantee outcome.
+### I.3 Systemic Causality
 
-All actions encounter friction from:
-- limited information
-- administrative weakness
-- resistance or avoidance
-- geography and material limits
-- competing incentives
+Historical and fictional systems are assumed to operate according to pressures, frictions, and constraints that persist independently of individual intent or awareness.
 
-Narratives that move cleanly from decision to result are invalid unless the text itself signals exceptional circumstances.
+Actors may misunderstand, misjudge, or fail to perceive these forces without negating their effect.
 
----
+### I.4 Non-Exceptionalism
 
-### 3. Misperception
-Actors do not see the full causal field.
+Individuals, institutions, and cultures are not exempt from systemic constraint by virtue of talent, virtue, destiny, or narrative centrality.
 
-Decisions are made under:
-- partial knowledge
-- ideological distortion
-- factional interest
-- retrospective rationalization
-
-Correct outcomes may arise accidentally; incorrect ones may appear rational at the time.
+Exceptional actors may alter trajectories, but they do not suspend structure.
 
 ---
 
-### 4. Asymmetry of Belief and Effect
-What people believe explains their actions, not necessarily the world’s response.
+## II. Authority and Precedence
 
-Doctrines, ideologies, and sacred interpretations:
-- often lag material change
-- often sanctify new power relations
-- often reinterpret failure as necessity or virtue
+### II.1 Hierarchy of Authority
 
-Belief coherence is not causal coherence.
+In cases of conflict or ambiguity, authority is resolved in the following order:
 
----
+1. This Constitution  
+2. Framework documents (`*_FRAMEWORK.md`)  
+3. Templates (`*_TEMPLATE.md`)  
+4. Examples (`examples/`)  
+5. World or implementation repositories
 
-## III. Structural Stress Fields
+Lower-level documents may not override higher-level constraints.
 
-All societies are continuously shaped by the following pressures, whether mentioned or not.  
-Narratives must show their fingerprints, implicitly or explicitly.
+### II.2 Binding Scope
 
-### A. Demographic Stress
-- population growth or decline
-- age structure (youth bulges, aging elites)
-- migration and displacement
+All frameworks, templates, examples, and implementations claiming adherence to this repository are bound by this constitution.
 
-Effects include radicalization, militarization, religious ferment, elite competition.
+No document may claim exemption.
 
 ---
 
-### B. Elite Competition Stress
-- surplus of elite aspirants
-- factional rivalry
-- redistribution of prestige after shocks
+## III. Mandatory Plausibility Disciplines
 
-Effects include intrigue, doctrinal schism, reform rhetoric masking power struggle.
+The following disciplines are mandatory at a conceptual level, though their implementation is unconstrained:
 
----
+### III.1 Structural Explainability
 
-### C. Fiscal and Administrative Stress
-- revenue stability or improvisation
-- ability to count, extract, enforce
-- corruption and leakage
+Every major narrative outcome must be explainable through identifiable structural conditions.
 
-Effects include uneven enforcement, symbolic reforms, policy oscillation.
+### III.2 Cost and Resistance
 
----
+Change must incur cost, delay, opposition, or degradation proportional to its scope.
 
-### D. Legitimacy Stress
-- moral bargains between rulers and ruled
-- competing bases of legitimacy
-- exclusion and scapegoating
+### III.3 Stress Sensitivity
 
-Effects include ritual reform, purges, sacralization of authority, revolt.
+Long-lived systems must exhibit vulnerability to accumulated stress and shock.
+
+### III.4 Bounded Knowledge and Coordination
+
+Actors operate under incomplete information and limited coordination unless explicit mechanisms justify otherwise.
 
 ---
 
-### E. Coordination and Information Stress
-- principal–agent problems
-- rumor vs command
-- delayed or distorted information
+## IV. Prohibited Narrative Violations
 
-Effects include failed campaigns, contradictory orders, policy incoherence.
+The following are categorically disallowed:
 
----
+### IV.1 Costless Reform
 
-### F. Ecological and Material Stress
-- harvest variability
-- climate shocks
-- resource bottlenecks
+Large-scale reform without resistance, delay, or tradeoff.
 
-Effects include war timing, migration, doctrinal reinterpretation of disaster.
+### IV.2 Infinite Resilience
 
----
+Institutions or systems that absorb unlimited stress without degradation.
 
-## IV. Rules for Political and Institutional Change
+### IV.3 Universal Rationality
 
-### 1. Capacity Precedes Reform
-Reforms require tools, personnel, and compliance.
+Assumptions that all actors respond optimally, consistently, or identically to incentives.
 
-If a polity cannot measure, enforce, or communicate a policy, the narrative must show failure, partial success, or symbolic substitution.
+### IV.4 Instantaneous Recovery
 
----
+Recovery from shock without time, resource expenditure, or structural change.
 
-### 2. Coalition Constraint
-Sustained governance requires support from a ruling coalition.
+### IV.5 Perfect Information
 
-After shocks (defeat, succession, famine):
-- coalitions fragment
-- loyalty becomes expensive
-- reforms provoke resistance
+Actors possessing accurate, comprehensive knowledge without credible informational infrastructure.
 
-Policy change without coalition logic is implausible.
+### IV.6 Singular Justification
+
+Outcomes justified solely by the actions, virtues, or insight of exceptional individuals.
 
 ---
 
-### 3. Path Dependence
-Institutions change incrementally.
+## V. Scope Limitations
 
-Sudden transformation requires:
-- shock
-- elite turnover
-- or bypassing of veto players
+This constitution explicitly does **not** govern:
 
-Otherwise, expect inertia and workaround behavior.
+- World-specific facts or canon  
+- Genre, theme, or moral interpretation  
+- Aesthetic or stylistic choices  
+- Enumeration of analytical constructs  
+- Selection or definition of specific tools, lattices, or lenses
 
----
-
-## V. Rules for Conflict and War Narratives
-
-### 1. Numbers Do Not Fight
-Military outcomes depend on:
-- logistics
-- cohesion and training
-- command and control
-- morale and legitimacy
-- terrain and weather
-- intelligence and deception
-
-High numbers without organization do not confer advantage.
+These concerns belong to frameworks or implementations.
 
 ---
 
-### 2. Defeat Produces Noise, Not Clarity
-After military failure:
-- blame proliferates
-- narratives diverge
-- ideology hardens
-- policy oscillates
+## VI. Interpretive Discipline
 
-Avoid clean “lesson learned → reform enacted” arcs.
+### VI.1 Conservative Interpretation
 
----
+Ambiguity shall be resolved toward increased constraint rather than expanded freedom.
 
-## VI. Narrative Legitimacy
+### VI.2 Constraint Preference
 
-Narratives are allowed to be:
-- biased
-- incomplete
-- polemical
-- wrong
+When multiple explanations are possible, preference is given to those that impose greater structural limitation on future outcomes.
 
-They are not allowed to be:
-- frictionless
-- monocausal
-- omniscient
-- structurally impossible
+### VI.3 Non-Expansion Principle
+
+Interpretation of this constitution must not be used to justify new freedoms, only to clarify existing limits.
 
 ---
 
-## VII. Consequences for Narrative Generation
+## VII. Amendment and Revision
 
-A narrative is implausible if it:
-- ignores structural stress entirely
-- attributes systemic change to personal will alone
-- resolves major crises cleanly
-- assumes universal compliance
-- collapses belief, intention, and outcome into one plane
+### VII.1 Amendment Threshold
 
-A narrative is strong if:
-- it embeds tension without resolving it
-- it allows multiple interpretations
-- it leaves room for later contradiction
+Amendments to this constitution are permitted only to resolve ambiguity, contradiction, or omission that undermines enforceability.
+
+### VII.2 Restrictive Direction
+
+All amendments must reduce interpretive latitude, not increase it.
+
+### VII.3 Prohibited Amendments
+
+Amendments may not:
+- Enumerate content
+- Introduce world-specific assumptions
+- Define analytical methods or constructs
+
+---
+
+## Closing Principle
+
+This constitution exists to **limit**, not inspire.
+
+Creativity occurs within the boundaries it establishes; plausibility is preserved by enforcing those boundaries without exception.
+
+Anything that cannot survive these constraints does not belong within this framework.
