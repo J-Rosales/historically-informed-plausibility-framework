@@ -51,7 +51,28 @@ It must have identifiable means of transmission (rituals, texts, apprenticeship,
 
 ---
 
-## III. Authoring Interface
+## III. Granularity, Overlap, and Regime Differentiation
+
+Belief regimes are defined as **socially operative systems**, not as abstract families of ideas or retrospective taxonomies.
+
+A belief regime should be documented as a distinct regime when differences between belief systems materially alter one or more of the following:
+- recognized sources of authority,
+- criteria of legitimacy or orthodoxy,
+- enforcement of boundaries and sanctions,
+- alignment with political, legal, or institutional power,
+- expectations of acceptable social or moral behavior.
+
+Shared narratives, symbols, texts, or historical origins do **not** imply a single regime.  
+Overlap in belief content is expected and does not negate functional distinction.
+
+Large umbrella categories that aggregate internally divergent systems are discouraged.  
+Such aggregation is permissible only when explicitly defined as abstract, genealogical, or non-operative, and must not be treated as directly explanatory of behavior or institutional alignment.
+
+As a practical test:  
+If contemporaneous actors treat one another as illegitimate, dangerous, or socially incompatible on the basis of belief, they constitute separate belief regimes for the purposes of this framework.
+
+
+## IV. Authoring Interface
 
 Authors defining a belief regime *instance* should address the following sections. These sections serve as a **structured guide**, not as constraints on creativity.
 
@@ -115,7 +136,7 @@ Authors defining a belief regime *instance* should address the following section
 
 ---
 
-## IV. Functional Roles in Plausibility Analysis
+## V. Functional Roles in Plausibility Analysis
 
 Belief regimes may be used to:
 
@@ -128,7 +149,7 @@ Belief regimes influence plausibility, but they are **not themselves consequence
 
 ---
 
-## V. Distinction Between Framework and Implementation
+## VI. Distinction Between Framework and Implementation
 
 This document defines **how to construct** a belief regime definition, not **which ones exist**.
 
@@ -142,14 +163,14 @@ Belief regime catalogs in world repos should use this framework for consistency.
 
 ---
 
-## VI. Templates and Examples
+## VII. Templates and Examples
 
 A *template* for belief regime definition is available separately (`BELIEF_REGIME_TEMPLATE.md`).  
 Concrete examples should be placed in an `examples/` directory or in world implementations, **not** in the framework.
 
 ---
 
-## VII. Overlap and Orthogonality
+## VIII. Overlap and Orthogonality
 
 Belief regimes may interact with:
 
@@ -162,14 +183,14 @@ Authors should document overlap and justify why their regime is *distinct and st
 
 ---
 
-## VIII. Non-Gating Declaration
+## IX. Non-Gating Declaration
 
 A belief regime description does **not** by itself constrain narrative plausibility.  
 It only contributes explanatory structure when interpreted through the lenses and lattices defined by an implementation.
 
 ---
 
-## IX. Evolution and Decay
+## X. Evolution and Decay
 
 Belief regimes are dynamic. Authors should document:
 
